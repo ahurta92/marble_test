@@ -9,14 +9,24 @@ int findMinWeight(const std::vector<Marble> &m) {
     return 0;
 }
 
-int findAverageWeight(const std::vector<Marble> &m) {
+int findTotalWeight(const std::vector<Marble> &m) {
     return 0;
 }
 
-std::string findNumberColors(const std::vector<Marble> &m) {
-    return std::string();
+double findAverageWeight(const std::vector<Marble> &m) {
+    return 0;
 }
 
 std::string findMaxColor(const std::vector<Marble> &m) {
     return std::string();
 }
+
+std::vector<Marble> returnBlueBag(const std::vector<Marble> &m) {
+    return std::vector<Marble>();
+}
+
+std::vector<Marble> returnRedBag(const std::vector<Marble> &m) {
+    return std::vector<Marble>();
+}
+
+

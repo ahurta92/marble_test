@@ -30,7 +30,7 @@ TEST_CASE("ARRAY PLUS ARRAY", "[arrayPlusarray]") {
 
     }
 }
-// Returing Strings Problem
+// Returning Strings Problem
 TEST_CASE("Returning string") {
         std::string first = "Hello, ";
         std::string third = " how are you doing today?";

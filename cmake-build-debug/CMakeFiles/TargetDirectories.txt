@@ -1,0 +1,13 @@
+/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/CMakeFiles/sort_N_marbles_vector.dir
+/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/CMakeFiles/sort_N_marbles_while.dir
+/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/CMakeFiles/marble_count_bag.dir
+/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/CMakeFiles/sort_N_marbles.dir
+/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/CMakeFiles/select_color.dir
+/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/CMakeFiles/color_bags.dir
+/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/CMakeFiles/sorting_marbles.dir
+/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/CMakeFiles/marble_bag.dir
+/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/testing/CMakeFiles/edit_cache.dir
+/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/testing/CMakeFiles/rebuild_cache.dir
+/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/testing/CMakeFiles/Marble_Testing.dir

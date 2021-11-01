@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adrian/CLionProjects/marbles_lecture/marble.h
+iostream
+-
+random
+-
+vector
+-
+
+/home/adrian/CLionProjects/marbles_lecture/select_color.cpp
+marble.h
+/home/adrian/CLionProjects/marbles_lecture/marble.h
+

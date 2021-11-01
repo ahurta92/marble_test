@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Marbles"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\testing\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sort_N_marbles_vector">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/sort_N_marbles_vector" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 sort_N_marbles_vector"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sort_N_marbles_vector/fast">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/sort_N_marbles_vector" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 sort_N_marbles_vector/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sort_N_marbles_while">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/sort_N_marbles_while" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 sort_N_marbles_while"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sort_N_marbles_while/fast">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/sort_N_marbles_while" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 sort_N_marbles_while/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="marble_count_bag">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/marble_count_bag" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 marble_count_bag"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="marble_count_bag/fast">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/marble_count_bag" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 marble_count_bag/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sort_N_marbles">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/sort_N_marbles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 sort_N_marbles"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sort_N_marbles/fast">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/sort_N_marbles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 sort_N_marbles/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="select_color">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/select_color" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 select_color"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="select_color/fast">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/select_color" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 select_color/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="color_bags">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/color_bags" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 color_bags"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="color_bags/fast">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/color_bags" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 color_bags/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sorting_marbles">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/sorting_marbles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 sorting_marbles"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sorting_marbles/fast">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/sorting_marbles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 sorting_marbles/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="marble_bag">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/marble_bag" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 marble_bag"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="marble_bag/fast">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/marble_bag" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 marble_bag/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Marble_Testing">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/testing/Marble_Testing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/testing/Makefile&quot;  VERBOSE=1 Marble_Testing"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/testing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/testing/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/testing/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Marble_Testing/fast">
+				<Option output="/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/testing/Marble_Testing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/testing/Makefile&quot;  VERBOSE=1 Marble_Testing/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/testing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/testing/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/adrian/CLionProjects/marbles_lecture/cmake-build-debug/testing/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/color_bags.cpp">
+			<Option target="color_bags"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/marble_bag.cpp">
+			<Option target="marble_bag"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/marble_count_bag.cpp">
+			<Option target="marble_count_bag"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/select_color.cpp">
+			<Option target="select_color"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/sort_N_marbles.cpp">
+			<Option target="sort_N_marbles"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/sort_N_marbles_vector.cpp">
+			<Option target="sort_N_marbles_vector"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/sort_N_marbles_while.cpp">
+			<Option target="sort_N_marbles_while"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/sorting_marbles.cpp">
+			<Option target="sorting_marbles"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/testing/main.cpp">
+			<Option target="Marble_Testing"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/testing/problems.cc">
+			<Option target="Marble_Testing"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/testing/problems.h">
+			<Option target="Marble_Testing"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/testing/tests.cpp">
+			<Option target="Marble_Testing"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/marbles_lecture/testing/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\testing\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

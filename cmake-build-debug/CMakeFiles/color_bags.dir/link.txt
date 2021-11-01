@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/color_bags.dir/color_bags.cpp.o -o color_bags 

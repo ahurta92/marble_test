@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/sorting_marbles.dir/sorting_marbles.cpp.o -o sorting_marbles 
